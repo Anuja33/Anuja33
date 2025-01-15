@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @Anuja33
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning web design.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me anuja.neupane37@gmail.com
-- ⚡ Fun fact: I never get tired of speaking.
+👋 Hi, I’m @Anuja33
+🌱 Currently diving deeper into Quality Assurance and Automation Testing
+💡 Passionate about creating bug-free software and improving user experiences through UI/UX design
 
-<!---
-Anuja33/Anuja33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 Looking to collaborate on projects related to QA Automation, UI/UX, and Testing Tools
+
+📚 What I'm learning:-
+-Automated Testing with Selenium and Python
+-Best practices for API Testing using Postman
+-Advanced techniques in Load Testing with JMeter
+-Enhancing my skills in Manual Testing and Test Case Creation
+-Exploring UI/UX design concepts for better user interfaces
+🚀 Projects:
+Shringar Online Saree Store: Led QA project for testing an e-commerce platform, implementing automated tests with Selenium.
+Demoblaze Application: Worked on testing web elements and alerts using Selenium and Python.
+🛠️ Skills:
+QA & Testing: Manual Testing, Automation with Selenium, API Testing with Postman, Load Testing with JMeter
+Tools: Selenium, Postman, JMeter, JIRA, GitHub, GitLab
+Programming: Python, Java (Basic)
+UI/UX: Designing user-friendly and accessible interfaces
+📫 How to reach me:
+Email: anujaneupane@gmail.com
+LinkedIn:0jjuhttps://www.linkedin.com/in/anuja-neupane-9ba28a2b7/
+⚡ Fun fact:
+I never get tired of speaking—whether it's about QA, testing, or UI/UX design!
+
+
