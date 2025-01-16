@@ -1,5 +1,7 @@
 👋 Hi, I’m @Anuja33
+
 🌱 Exploring Quality Assurance and Automation Testing
+
 💡 Passionate about bug-free software and improving UI/UX design
 
 💬 Looking to collaborate on QA Automation, UI/UX, and Testing Tools
